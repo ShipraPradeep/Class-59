@@ -1,0 +1,115 @@
+.profile{
+    width: 300px;
+    margin-bottom: 70px;
+    border-radius: 10%;
+    background-color: cyan;
+    padding: 3px;
+}
+.line{
+    height: 6px;
+    background-color: #000;
+    width: 100px;
+  margin: 8px auto;
+}
+
+#hobby{
+     position: absolute;
+    height: 800px;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient(#FF80AB 0%, #EA80FC 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+body{
+    margin: 0;
+    padding-top: 800px;
+  text-align:center;
+ 
+}
+#about{
+    padding: 50px;
+    text-align: center;
+    font-size: 25px;
+    background: linear-gradient(aquamarine 0%, lightgreen 100%);
+}
+#head1{
+    font-size: 35px;
+    line-height: 1.2;
+    font-family:  'Pacifico', cursive;
+}
+
+.Links:hover {
+    background-color: dodgerblue;
+
+}
+
+.menu{
+    font-family: monospace;
+    position: fixed;
+    top: 0px;
+    margin-top: 0px;
+    z-index: 10;
+    cursor: pointer;
+background: dodgerblue;
+}
+.Links{
+   padding-left: `10px;
+    padding-right: 10px;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 20px;
+    display: inline;
+}
+#reading{
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'Bangers', cursive;
+}
+#para1{
+    font-family: 'Patrick Hand', cursive;
+    
+}
+.book{
+    width:300px;
+    margin-bottom: 70px;
+    background-color: black;
+    padding: 3px;
+}
+#JK{
+    width: 300px;
+    border-width: medium;
+    border-color: darkviolet;
+}
+#enid{
+    width: 300px;
+    border-width: medium;
+    border-color: darkviolet;
+}
+#writings a {
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: blue !important;
+}
+
+#contact {
+    background-color: cadetblue;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    color: white;
+    text-shadow: none;
+}
